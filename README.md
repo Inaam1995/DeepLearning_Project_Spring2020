@@ -1,4 +1,4 @@
-<h1> MSDS19087_Project_DLSpring2020 </h2>
+<h1> Deep Learning Project Spring2020 </h2>
 This repository contains code and results for the Course Project by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This repository is only for learning purposes and is not intended to be used for commercial purposes. 
 <br /> 
 <p> Course Link: <a href="http://im.itu.edu.pk/deep-learning-spring-2020/">http://im.itu.edu.pk/deep-learning-spring-2020/</a></p>
